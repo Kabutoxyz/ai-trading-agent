@@ -40,3 +40,6 @@ python main.py <parameter>
 - Uses public APIs (no API key required)
 - Rate limits apply
 - For educational purposes
+
+
+<!-- Last updated: 2026-06-15 -->
